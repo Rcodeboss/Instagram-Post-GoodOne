@@ -1,0 +1,48 @@
+html, body {
+    background-color: black;
+}
+
+.container {
+    display: inline-block;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.header i {
+    font-size: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.header {
+    height: 70px;
+}
+.post {
+    background: white;
+    width: 400px;
+    height: 600px;
+}
+
+.img img {
+    width: 400px;
+    height: 300px;
+}
+
+.accions i {
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+#bookmark {
+    float: right;
+    margin-right: 10px;
+}
+
+.title {
+    margin-top: 10px;
+    margin-left: 5px
+}
+
+.text {
+    margin-top: 10px;
+    margin-left: 5px;
+}
