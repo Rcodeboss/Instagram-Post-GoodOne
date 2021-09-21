@@ -8,13 +8,24 @@ html, body {
 }
 
 .header i {
-    font-size: 40px;
-    margin-top: 10px;
+    font-size: 30px;
+    margin-top: 20px;
     margin-left: 10px;
+}
+.user {
+    margin-top: -45px;
+    margin-left: 45px;
+}
+
+#dots {
+    float: right;
+    margin-right: -290px;
+    margin-top: -60px;
 }
 
 .header {
     height: 70px;
+    display: inline-block;
 }
 .post {
     background: white;
